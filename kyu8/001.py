@@ -15,4 +15,3 @@ def hoop_count(n):
 
 print(hoop_count(5))
 
-
